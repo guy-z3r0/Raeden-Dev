@@ -1,8 +1,8 @@
 ## Hey! I'm Sadman 🌀
 
-💻 Computer Science and Engineering Student<br/>
-🧰 Freelance Pixel Artist & Low-Poly 3D Artist<br/>
-⚙️ Working on Minecraft server development<br/>
+💻 CSE Student<br/>
+🧰 Coding along with a little bit of everything<br/>
+⚙️ Working on Hytale server development<br/>
 ⛓️‍💥 Connect with me on discord: Raeden
 
 # 💻 Tech Stack:
